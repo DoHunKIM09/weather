@@ -1,0 +1,12 @@
+.hourly-section {
+  margin-top: 30px;
+}
+.hourly-section .inner {
+  position: relative;
+  width: 95%;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+}/*# sourceMappingURL=houly.css.map */
